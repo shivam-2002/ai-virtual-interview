@@ -1,0 +1,11 @@
+[gemini]
+api_key=XXXXX
+
+[frontend]
+base_url = http://localhost:3000
+
+[db]
+host = localhost
+user = root
+db = ai_interview
+password = password
